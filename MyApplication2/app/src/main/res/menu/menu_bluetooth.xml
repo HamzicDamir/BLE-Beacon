@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/clearListId"
+        android:title="Clear List"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_clearlist"/>
+    <item
+        android:id="@+id/bluetoothId"
+        android:icon="@mipmap/ic_bluetooth"
+        android:title="@string/bluetooth_on_off"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/wifiId"
+        android:icon="@mipmap/ic_wifi"
+        android:title="Wifi"
+        app:showAsAction="always" />
+
+</menu>

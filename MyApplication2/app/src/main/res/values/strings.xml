@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bluetooth_on_off">Bluetooth On/OFF</string>
+    <string name="nameofobject">NameOfObject</string>
+    <string name="textview">TextView</string>
+    <string name="distance">Distance</string>
+    <string name="information">Information:</string>
+    <string name="type">Type:</string>
+    <string name="address">Address:</string>
+    <string name="link">Link:</string>
+    <string name="android_app_name">BLE Beacon</string>
+</resources>
